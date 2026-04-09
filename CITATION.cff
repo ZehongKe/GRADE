@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code or find our paper useful, please cite:"
+title: "GRADE: Guiding Realistic Autonomous Driving with Adaptive Trajectory Evolution"
+type: conference-paper
+authors:
+  - family-names: Ke
+    given-names: Zehong
+    affiliation: Tsinghua University
+  - family-names: Liu
+    given-names: Zhiyuan
+    affiliation: Tsinghua University
+  - family-names: Wang
+    given-names: Yuning
+    affiliation: Tsinghua University
+    email: wyn21@mails.tsinghua.edu.cn
+  - family-names: Li
+    given-names: Jinhao
+    affiliation: Tsinghua University
+  - family-names: Jiang
+    given-names: Junkai
+    affiliation: Tsinghua University
+  - family-names: Jiang
+    given-names: Yanbo
+    affiliation: Tsinghua University
+  - family-names: Xu
+    given-names: Zhenhua
+    affiliation: Tsinghua University
+  - family-names: Wang
+    given-names: Jianqiang
+    affiliation: Tsinghua University
+doi: 10.XXXX/XXXX.XXXXX.XXXXX
+url: "https://github.com/yourusername/GRADE"
+year: 2026
+publisher:
+  name: IEEE/CVF
+conference:
+  name: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date-start: 2026-06-01
+  date-end: 2026-06-05
+  location: San Francisco, USA
+version: 1.0.0
+license: MIT
+keywords:
+  - Autonomous Driving
+  - Trajectory Planning
+  - Computer Vision
+  - Reinforcement Learning
+  - Motion Planning
