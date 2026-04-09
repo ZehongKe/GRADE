@@ -7,6 +7,10 @@ This is the official implementation of **GRADE** (CVPR 2026), a unified framewor
 
 ## 📖 Overview
 
+<p align="center">
+  <img src="assets/teaser.svg" alt="GRADE Teaser">
+</p>
+
 Autonomous driving requires generating high-quality trajectories that balance multiple competing objectives (safety, comfort, efficiency) across complex scenarios. Existing methods typically rely on a single aggregated reward, struggling to explicitly model trade-offs between different planning objectives.
 
 **GRADE** addresses this by introducing a unified planning framework with adaptive weight fluctuation that dynamically adjusts the importance of different factors during optimization.
@@ -44,7 +48,7 @@ GRADE achieves state-of-the-art performance on both major autonomous driving ben
 ## 🏗️ Framework
 
 <p align="center">
-  <img src="assets/pipeline.pdf" alt="GRADE Framework">
+  <img src="assets/pipeline.png" alt="GRADE Framework">
 </p>
 
 GRADE consists of three core components:
